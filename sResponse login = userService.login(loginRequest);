@@ -1,0 +1,183 @@
+[33mcommit a4466a230d4a3b011510fd0a46e00af928345b5a[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/userget[m[33m, [m[1;31morigin/feature/userget[m[33m)[m
+Author: Arsen Abrahamyan <arsen.abrahamyan17@gmail.com>
+Date:   Thu Mar 28 21:56:12 2024 +0400
+
+    Change All Get api-s to be public for all users
+
+[33mcommit 20abd7b1c9c9956291c00dcc4229db69d9f99c06[m[33m ([m[1;31morigin/development[m[33m, [m[1;32mdevelopment[m[33m)[m
+Author: Artyom7577 <artyom.hayrapetyan0001@gmail.com>
+Date:   Fri Mar 22 18:59:05 2024 +0400
+
+    user updated
+
+[33mcommit 32aefe9b81a4f071916aef2dcc57eb5ee8ebe8a0[m
+Merge: 9793fc4 343e3b0
+Author: Artyom Hayrapetyan <Artyom.Hayrapetyan0001@gmail.com>
+Date:   Fri Mar 22 18:38:55 2024 +0400
+
+    Merge pull request #10 from Code-Republic-Community/feature/postControllerFix
+    
+    Feature/post controller fix
+
+[33mcommit 9793fc44baa86f78488337c0067545ceb24d7ca0[m
+Merge: dca6989 d17fa0d
+Author: Artyom Hayrapetyan <Artyom.Hayrapetyan0001@gmail.com>
+Date:   Fri Mar 22 18:37:33 2024 +0400
+
+    Merge pull request #13 from Code-Republic-Community/feature/comentControllerFix
+    
+    Modifying Swagger for CommentController
+
+[33mcommit dca69897323f03bf4786924015ceb9cdc8dcac98[m
+Merge: 11b82be 4184b84
+Author: Artyom Hayrapetyan <Artyom.Hayrapetyan0001@gmail.com>
+Date:   Fri Mar 22 18:36:55 2024 +0400
+
+    Merge pull request #12 from Code-Republic-Community/feature/diary_controller
+    
+    Feature/diary_controller updated
+
+[33mcommit d17fa0dc6814963eeb5cef011d3b9576f0f26b39[m
+Author: Elen Matevosyan <elen.matevosyan90@gmail.com>
+Date:   Thu Mar 21 18:50:21 2024 +0400
+
+    Modifying Swagger for CommentController
+
+[33mcommit 4184b844884a48d738414ce7207008aa7742180e[m
+Author: LilitHovhannisyan7 <LilHovhannisyan540@gmail.com>
+Date:   Thu Mar 21 16:55:50 2024 +0400
+
+    Updated Diary_Controller
+
+[33mcommit 343e3b02e656be75d4263b79693e5cda08018d14[m[33m ([m[1;31morigin/feature/postControllerFix[m[33m)[m
+Merge: 83b341d 11b82be
+Author: Arsen Abrahamyan <arsen.abrahamyan17@gmail.com>
+Date:   Wed Mar 20 18:53:46 2024 +0400
+
+    merge with development
+
+[33mcommit 83b341d0ef528bfd5f1cc751ee2b740ac61d476f[m
+Author: Arsen Abrahamyan <arsen.abrahamyan17@gmail.com>
+Date:   Wed Mar 20 18:46:19 2024 +0400
+
+    post swagger setup
+
+[33mcommit 11b82be69ee62f0da707ce1635864912f3d8ed78[m
+Merge: a683ab1 1ab3367
+Author: Artyom Hayrapetyan <Artyom.Hayrapetyan0001@gmail.com>
+Date:   Wed Mar 20 17:36:45 2024 +0400
+
+    Merge pull request #9 from Code-Republic-Community/feature/Update
+    
+    user and auth swagger docs
+
+[33mcommit 1ab336738464571e3546f932df7a2f049db6198b[m[33m ([m[1;31morigin/feature/Update[m[33m)[m
+Author: Artyom7577 <artyom.hayrapetyan0001@gmail.com>
+Date:   Wed Mar 20 17:35:56 2024 +0400
+
+    user and auth swagger docs
+
+[33mcommit a683ab1f0c61957254ccca9f25832911d554d138[m
+Merge: 532f912 c8bf0cd
+Author: Artyom Hayrapetyan <Artyom.Hayrapetyan0001@gmail.com>
+Date:   Sat Mar 16 19:10:26 2024 +0400
+
+    Merge pull request #8 from Code-Republic-Community/feature/Update
+    
+    some fix
+
+[33mcommit c8bf0cde53e8270410b43537252d2bab094ca2aa[m
+Author: Artyom7577 <artyom.hayrapetyan0001@gmail.com>
+Date:   Sat Mar 16 19:09:37 2024 +0400
+
+    some fix
+
+[33mcommit 532f9121ad240441b2d58078bcde4d43a0a9946b[m
+Author: Artyom7577 <artyom.hayrapetyan0001@gmail.com>
+Date:   Sat Mar 16 19:08:34 2024 +0400
+
+    some fix
+
+[33mcommit fe426bf55ef6f58b27f4b4486cce4a1c8fc338b3[m
+Author: Artyom7577 <artyom.hayrapetyan0001@gmail.com>
+Date:   Fri Mar 15 15:04:31 2024 +0400
+
+    some fix changes
+
+[33mcommit 37b42a72e7f80feb14e72476ad41e84e67397dd9[m
+Author: Artyom7577 <artyom.hayrapetyan0001@gmail.com>
+Date:   Thu Mar 14 13:47:11 2024 +0400
+
+    swagger fix
+
+[33mcommit 24d45477a940b619e93696eea3314bc9d77c1e96[m
+Author: Artyom7577 <artyom.hayrapetyan0001@gmail.com>
+Date:   Wed Mar 13 18:10:05 2024 +0400
+
+    buildFix
+
+[33mcommit f4e5c20d3c126b74632f00030e429cde2a4e94de[m
+Author: Artyom7577 <artyom.hayrapetyan0001@gmail.com>
+Date:   Wed Mar 13 17:37:47 2024 +0400
+
+    swagger config
+
+[33mcommit 90d68a6b666173a5e49b70f3323e5b30480d6cda[m
+Author: Artyom7577 <artyom.hayrapetyan0001@gmail.com>
+Date:   Wed Mar 13 17:31:48 2024 +0400
+
+    swagger config
+
+[33mcommit baedeffc9b65002c62c0f3df2f7ef118cec82bfa[m
+Author: Artyom7577 <artyom.hayrapetyan0001@gmail.com>
+Date:   Wed Mar 13 17:26:07 2024 +0400
+
+    some changes
+
+[33mcommit f72c8a312259d79e303b5ad749935259846c44e8[m
+Author: Artyom7577 <artyom.hayrapetyan0001@gmail.com>
+Date:   Wed Mar 13 17:08:42 2024 +0400
+
+    added development branch
+
+[33mcommit 9456ea394c462c9c847addcec84a9bb16059fee7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Artyom7577 <artyom.hayrapetyan0001@gmail.com>
+Date:   Wed Mar 13 16:56:37 2024 +0400
+
+    some Fix
+
+[33mcommit 0bd495c8fdeb06ac277833fc052b278cd3b83ca4[m
+Merge: a2701ac 6041d2f
+Author: Manuk <123746895+manuk2000@users.noreply.github.com>
+Date:   Mon Mar 4 20:08:58 2024 +0400
+
+    Merge pull request #2 from Code-Republic-Community/T_01_refactoring
+    
+    Merge pull request #1 from Code-Republic-Community/main
+
+[33mcommit 6041d2fb92f174a6b33b3a37451d119eb16cc293[m
+Merge: 4f6c84b a2701ac
+Author: Manuk <123746895+manuk2000@users.noreply.github.com>
+Date:   Mon Mar 4 20:07:56 2024 +0400
+
+    Merge pull request #1 from Code-Republic-Community/main
+    
+    first commit
+
+[33mcommit a2701acd19cea28f37aa5e239d9ae670df151bfa[m[33m ([m[1;32mmain[m[33m)[m
+Author: Manuk <123746895+manuk2000@users.noreply.github.com>
+Date:   Mon Mar 4 10:30:53 2024 -0500
+
+    Create README.md
+
+[33mcommit 349773f2062d7b85d549654dff938549e0214e71[m
+Author: manuk2000 <asatryanmanuk2000@gmail.com>
+Date:   Mon Mar 4 10:26:00 2024 -0500
+
+    add mysql-compose.yml and fix db create if not exist
+
+[33mcommit 4f6c84b1e65300a448f0560336474f9ae38775d5[m[33m ([m[1;32mT_01_refactoring[m[33m)[m
+Author: manuk2000 <asatryanmanuk2000@gmail.com>
+Date:   Wed Feb 28 08:36:39 2024 +0400
+
+    first
